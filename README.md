@@ -1,6 +1,6 @@
 <h2>hii there</h2>  
 
-<p>👓 I'm a junior developer . Skilled mainly in Python, but also in JavaScript, HTML, CSS.</p>
+<p>👓 I'm a junior developer . Skilled mainly in Python, JavaScript, HTML, CSS.</p>
 <p>👨🏽‍💻 I've been building little projects to help my co-workers, like spreadsheets automation, building crawlers to get information, and connecting some APIs to improve processes</p>
 <p>🌱 At the moment, I'm giving my best learning Django Framework, JavaScript, HTML, CSS.</p>
 <div id="header" align="center">
